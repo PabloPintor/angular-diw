@@ -1,3 +1,5 @@
-# angular-diw
+# Tour of Heroes
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-diw)
+Proyecto Diseño de Interfaces WEB
+
+Edicion: https://stackblitz.com/edit/angular-diw
